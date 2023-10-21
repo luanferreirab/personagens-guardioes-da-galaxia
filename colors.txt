@@ -1,0 +1,10 @@
+#member__name {
+  font-size: 150px;
+  letter-spacing: 6px;
+  font-weight: 400;
+
+  color: transparent;
+  font-family: 'Star Guard Italic';
+  padding-right: 10px;
+}
+
